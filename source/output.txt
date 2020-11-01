@@ -1,0 +1,198 @@
+1: Can u add a built in function to open a server to test and see our html code? Thanks!
+
+2: Why are the floating prompts of variables and functions in JS inconsistent with those in HTML?
+
+3: Git Push (Follow Tags) not working in github
+
+4: wrong color
+
+5: New branch not visible
+
+6: Bad Auto-Format on EJS
+
+7: VS Code scroll lags on macos
+
+8: Provide a way for a CompletionItem to have both a color and documentation
+
+9: VS Code setup removes js files association  with Windows Scripting Host (WSH)
+
+10: linter toggle
+
+11: Regex Replace not working for look-behind expression matching a newline
+
+12: Provision to get a `pickString` dynamically populated in a VSCode task
+
+13: Provision to select multiple values from the list in task
+
+14: The cursor lags when typing/selecting/deleted text quickly if the editor.cursorSmoothCaretAnimation option is set to true
+
+15: I would like dock toolbar to top of the sidebar
+
+16: ${fileDirname} does not resolve correctly
+
+17: natvis does not support enum class template argument types
+
+18: Unwanted HTML tag highlight since recent updates
+
+19: [1031/181118.450:ERROR:registration_protocol_win.cc(103)] CreateFile: 系统找不到指定的文件。 (0x2)
+
+20: Should "Report Issue" work for built-in extensions in Running Extensions view?
+
+21: OPEN_TO_SIDE_COMMAND_ID should not use fileservice to detect folders
+
+22: Editors: revisit "preview" editors default behaviour
+
+23: Not Getting Auto Information
+
+24: Readonly editor hover appears weird for first line
+
+25: Semantic Highlighting can't be disabled
+
+26: Allow filter in quick navigation (Ctrl-Q)
+
+27: The extension manager should display to which marketplace it connects 
+
+28: grid-template-area not working
+
+29: Toggle visibility of Editor Groups
+
+30: VCS sync error bad handling
+
+31: Multiple snippet transforms
+
+32: Safari: terminal focus context key not updated after hide
+
+33: settings sync gets turned off because of too many requests
+
+34: Getting artefacts on mouse move over window
+
+35: Double scrollbars in diff views should feel like 1 thing
+
+36: EDITING PROBLEM. :(
+
+37: Icons have half opacity in Running Extensions
+
+38: Compound configuration with two C applications; sometimes doesn't launch both application
+
+39: Can't connect to extensions marketplace
+
+40: 100% CPU Usage - Code Helper (renderer)
+
+41: Visual indication of upload progress when drag&dropping into remote host
+
+42: Windows explorer icons should be updated with the icons for the current VS Code file icon theme
+
+43: language server support for big files when largeFileOptimization is disabled
+
+44: Running `code .` on WSL will try to download an outdated version of VSC
+
+45: unable to login with corporate microsoft account
+
+46: [regression] Files served by readonly filesystem show double '(read-only)' suffix in titlebar again
+
+47: Suggest detail does not shrink to fit content when resized
+
+48: "Restart to Update" does not restart on macOS 11.0.1 (Big Sur)
+
+49: Should peek editor close on ESC before suggest?
+
+50: Consider to remove migrateFromOldCachedViewContainersValue
+
+51: Inconsistent Behavior Inside the Custom Open File Dialog of Remote Extensions when Navigating with a Screen Reader 
+
+52: Import from other project to test.component.spec.ts is underlined with red (Angular)
+
+53: Can't save workspace locally when using remote extension
+
+54: configurationDefaults contribution changes JSON auto-complete behavior
+
+55: Word wrap for variables in Watch view
+
+56: Emmet doesn't remove snippets if user moves snippet file to another directory
+
+57: Left overs in terminal after deleting text
+
+58: Dropdowns don't work with touch screen
+
+59: Webview repeats some keyboard shortcut execution
+
+60: Action icons that are submenus don't handle empty well
+
+61: Bot should not lock author-verification-requested issues until after the iteration
+
+62: Wsl won't allow me to open terminal for python
+
+63: Improve user experience when settings sync requires client update
+
+64:  On the integrated terminal, `ctrl + click` doesn't correctly open the file links with file URI schemes (file:///).
+
+65: Intellisense incorrectly highlighting auto variable in C++
+
+66: Highlight the row selected from the "Find All Reference" list
+
+67: if i save the file allignement keeps changing
+
+68: Slow file handling on remote
+
+69: TypeScript string unions autocompletion cut off because of redundant info
+
+70: Please add support engine version to api
+
+71: Locaolization bug:zh-cn: Preference: files.trimTrailingWhitespace
+
+72: Inform users about incompatibility while opting in to sync Insiders with Stable
+
+73: Bash syntax highlighting breaks after in-line pipe to while-read loop
+
+74: Custom menu: consider to align accounts menu like gear and home menu
+
+75: Scrolling in a notebook diff editor is sluggish
+
+76: Clicking link in text block navigates to link AND opens it for edit
+
+77: Remote SSH extension locks up low memory servers
+
+78: Application is 'fuzzy' - nothing is crisp
+
+79: execSync('code --version').toString() returns node.js version instead of vs code version
+
+80: Preserve text input between 'Git: checkout to' and Quick Open providers
+
+81: File save time stamp is not correct
+
+82: TS Server fatal error:  Cannot read property 'charCount' of undefined
+
+83: Debug hover expands over cursor
+
+84: VSCode is too slow on all actions related to SCM
+
+85: Syntax highlighting in HTML is wrong when @page rule contains more than one nested rule
+
+86: System Sound on Windows dialog boxes lags for the first dialog window
+
+87: Smoke test: changes 'workbench.action.toggleSidebarPosition' command key binding and verifies it
+
+88: Can not load installed extension and recommend extension
+
+89: Pinned Tabs: offer a mode where unpin icon is hidden
+
+90: windows crashed
+
+91: xterm.css is out of date
+
+92: Copy/Cut broken on safari on iPadOS
+
+93: 94: unbound breakpoint with preview debugger and runtimeArguments launch config
+
+95: Sync debug and editor hover fade out times
+
+96: Notebook drag titles are in front of scrollbar
+
+97: find and replace bad
+
+98: Format on save for TypeScript files sometimes indents JSDoc comments incorrectly
+
+99: Invalid predictions should be invalidated after some timeout
+
+100: Extensions - Improve notification dialog when installing an extension
+
